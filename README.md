@@ -1,4 +1,4 @@
-# Escape-Room-Game-System
+# Exit-Escape-Room-System
 
 ### Description
 > Game utilized a wide variety of complex Python Pygame modules to create an all-around online escape room game with a user interface. The player is able to choose different difficulty levels and maps while playing.
